@@ -28,16 +28,16 @@ Welcome to the exciting journey of fine-tuning small language models! In this ad
 
 In our Jupyter Notebook, you'll find:
 
-- ✅ **Necessary Packages Installation**:  
+ ✅ **Necessary Packages Installation**:  
   Get set up with all the tools you need to start fine-tuning.
 
-- ✅ **Explanations of TopK and TopP Samplers**:  
+ ✅ **Explanations of TopK and TopP Samplers**:  
   Understand how to optimize your model's output for better results. You will finally use both of these samplers and see their impacts on the model's output.
 
-- ✅ **Fine-Tuning our Gemma 1.0 Model**:  
+ ✅ **Fine-Tuning our Gemma 1.0 Model**:  
   Work with the dataset: `databricks-dolly-15k.jsonl`.
 
-- ✅ **Setting up the Temperature**:  
+ ✅ **Setting up the Temperature**:  
   You will understand its functionality and how it affects model output.
 
 Join us as we embark on this thrilling journey of fine-tuning Gemma 1.0 and beyond! Your adventure in the world of AI starts here.
